@@ -5,13 +5,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+compileerror comes here! :P :D   asdsdddssd
+
 @SpringBootApplication
 @RestController
 public class DemoApplication {
 
 	@GetMapping("/")
 	public String hello() {
-		return "Hello";
+		return "Hello Crappy Jenkins!";
 	}
 
 	public static void main(String[] args) {
