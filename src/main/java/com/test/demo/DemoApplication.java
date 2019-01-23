@@ -7,6 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 asd
 
+afdfdfgdfg method 2
+	
 @SpringBootApplication
 @RestController
 public class DemoApplication {
