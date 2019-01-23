@@ -1,6 +1,6 @@
 Created test repository to play with Jenkins
 
 
-jjhjhj
+new awesome commit
 
 adsfdfsasfdsdf
