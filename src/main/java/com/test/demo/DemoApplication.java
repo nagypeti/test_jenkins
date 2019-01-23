@@ -5,10 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-asd
-
-afdfdfgdfg method 2 fuck this shit
-	
 @SpringBootApplication
 @RestController
 public class DemoApplication {
