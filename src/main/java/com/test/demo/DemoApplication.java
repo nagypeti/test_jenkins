@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 asd
 
-afdfdfgdfg method 2
+afdfdfgdfg method 2 fuck this shit
 	
 @SpringBootApplication
 @RestController
